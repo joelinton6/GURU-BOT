@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['254105771290','Mchael' , true],
-  ['254105771290', 'Michael', true], 
+  ['254705902825','Luda' , true],
+  ['254705903825', 'Luda', true], 
   [''] 
 ] //Number of owners
 
@@ -28,7 +28,7 @@ global.lolkeysapi = ['GataDios']
 global.APIs = { // API Prefix
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz', 
-  dzx: 'https://api.dhamzxploit.my.id',
+  dzx: 'https://api.dhamzxploit.my.id', you 
   lol: 'https://api.lolhuman.xyz',
   violetics: 'https://violetics.pw',
   neoxr: 'https://api.neoxr.my.id',
@@ -50,10 +50,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'Michael'
+global.botname = 'Luda'
 global.premium = 'false'
-global.packname = 'Michael' 
-global.author = '@Michael' 
+global.packname = 'luda' 
+global.author = '@luda' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
